@@ -1,1 +1,4 @@
-
+build:
+  version: "1.0"
+  name : "Config-Server"
+  descryption : "Server for Centralized Configurations"
